@@ -1,0 +1,16 @@
+.table{
+    margin-top: 20px;
+    overflow: hidden;
+    overflow-y:scroll;
+    height: 400px;
+    color: #6a5d5d;
+    margin-bottom: 30px;
+}
+
+.table tr:nth-of-type(odd){
+    background-color: #f2f2f8;
+}
+
+th,td{
+    padding: 10px;
+}
