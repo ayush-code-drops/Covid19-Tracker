@@ -19,13 +19,13 @@
 ![Screenshot (1129)](https://i.imgur.com/d59e4Wn.png)
 
 2. Country Wise Data Table
-![Screenshot (1130)](blob:https://imgur.com/30f14dab-151c-496e-9e51-3aeb6f882240)
+![Screenshot (1130)](https://i.imgur.com/9p7SwSv.png)
 
 3. Time vs Cases Graph
-![Screenshot (1132)](blob:https://imgur.com/ebdf6aa6-65a3-4625-bae9-0dfd3a5a102b)
+![Screenshot (1132)](https://i.imgur.com/6Q86FkJ.png)
 
 4. Filter by Country
-![Screenshot (1133)](blob:https://imgur.com/b1c7f29b-bc37-494e-bc3b-6b84d32ff6ba)
+![Screenshot (1133)](https://i.imgur.com/DSPI0ej.png)
 
 # Instructions to Run the Code
 - Clone the repo by following command ```git clone https://github.com/ayush-code-drops/MeetUp-Clone.git```
